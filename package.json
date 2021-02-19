@@ -1,0 +1,23 @@
+{
+  "name": "onlineshopping_webapp",
+  "version": "1.0.0",
+  "description": "A complete Online shopping Web Application with checkout and payment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gouthamk-cryptichub/OnlineShopping_WEBAPP.git"
+  },
+  "author": "Goutham K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gouthamk-cryptichub/OnlineShopping_WEBAPP/issues"
+  },
+  "homepage": "https://github.com/gouthamk-cryptichub/OnlineShopping_WEBAPP#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
